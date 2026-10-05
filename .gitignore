@@ -33,6 +33,7 @@ data/processed/
 *.csv
 *.tsv
 *.jsonl
+*.json
 *.parquet
 *.sqlite
 *.db
